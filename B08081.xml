@@ -1,0 +1,369 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A poeticall sea-peice: containing in a spacious table the lively description of a tempest at sea, and shipvvrecks. / Transcribed hither out of an elderly manuscript poem; partly for a lesson of life, and partly for the honorable uses which follow; under the old Greeke, and Roman solemn præfaces of good speed. ... With the fauorable allowance, and concurrence (or not otherwise) of the æquall patrons, and friends of eminent poets, painters, from Cæsar to the private gentleman, and of those poets, and eminent painters themselves. An agonicall challenge, in the name of Apollo, to the art of Apelles, bringing into a comparison the worke of wit, and words, by the penne, under the poeticall figure, Jeon, with the worke of wit, and colours, by the penicill ... The meritorious office of bringing the magnificent designe into act, by the meanes of royall favour, is zealously recommended to the wisedome, and noble forwardnesse of Mr. Endymion Porter ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1633</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08081</idno>
+            <idno type="STC">STC 22140.5</idno>
+            <idno type="STC">ESTC S95156</idno>
+            <idno type="EEBO-CITATION">71305174</idno>
+            <idno type="OCLC">ocm 71305174</idno>
+            <idno type="VID">183901</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08081)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183901)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2208:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A poeticall sea-peice: containing in a spacious table the lively description of a tempest at sea, and shipvvrecks. / Transcribed hither out of an elderly manuscript poem; partly for a lesson of life, and partly for the honorable uses which follow; under the old Greeke, and Roman solemn præfaces of good speed. ... With the fauorable allowance, and concurrence (or not otherwise) of the æquall patrons, and friends of eminent poets, painters, from Cæsar to the private gentleman, and of those poets, and eminent painters themselves. An agonicall challenge, in the name of Apollo, to the art of Apelles, bringing into a comparison the worke of wit, and words, by the penne, under the poeticall figure, Jeon, with the worke of wit, and colours, by the penicill ... The meritorious office of bringing the magnificent designe into act, by the meanes of royall favour, is zealously recommended to the wisedome, and noble forwardnesse of Mr. Endymion Porter ...</title>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Thomas Cotes.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1633..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Title vignette.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:183901:1"/>
+            <pb facs="tcp:183901:1" rendition="simple:additions"/>
+            <p>A POETICALL SEA-PEICE: Containing in a ſpacious table the lively deſcription of a Tempeſt at Sea, and Shipvvrecks. Tranſcribed hither out of an elderly manuſcript poem; partly for a leſſon of life, and partly for the honorable uſes which follow; under the old Greeke, and Roman ſolemn praefaces of good ſpeed.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <q>Quod fauſtum, foelix<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſit.</q>
+            <p>With the fauorable allowance, and concurrence (or not otherwiſe) of the aequall patrons, and friends of eminent Poets, and Painters, from CAESAR to the private Gentleman, and of thoſe Poets, and eminent Painters themſelves.</p>
+            <p>An Agonicall CHALLENGE, in the name of Apollo, to the Art of Apelles, bringing into a compari<g ref="char:EOLhyphen"/>ſon the worke of wit, and words, by the penne, under the poeticall figure, <hi>Jcon,</hi> with the worke of wit, and colours, by the penicill.</p>
+            <q>Ob artium majus bonum.</q>
+            <p>The meritorious office of bringing the magnificent deſigne into act, by the meanes of Royall favour, is zealouſly recommended to the wiſedome, and noble forward<g ref="char:EOLhyphen"/>neſſe of M<hi rend="sup">r</hi>. <hi>Endymion Porter,</hi> an affectionate, and an underſtanding lover; as of all other generous Arts, ſo ſpecially of theſe the two moſt famous.</p>
+            <p>Printed at LONDON by <hi>Thomas Cotes.</hi> 1633.</p>
+            <pb facs="tcp:183901:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:183901:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:183901:3"/>
+            <head>A POETICALL SEA-PEICE:</head>
+            <lg>
+               <l>SO ſpake the ſtormy fiend; whoſe work it was,</l>
+               <l>To vex the aer, and ſeas as ſmoothe as glaſſe,</l>
+               <l>To roll on heaps till they on end doe ſtand,</l>
+               <l>Where they againſt the windes doe breaking band,</l>
+               <l>And lift at heaven, and in their rangeing race,</l>
+               <l>Twixt ridg and ridg the deep engulphing ſpace,</l>
+               <l>Appeares like jawes infernall, mouthes of hell,</l>
+               <l>To ſwallow whole Fleets whole, none left to tell,</l>
+               <l>The loſſes hapning in thoſe liquid graves.</l>
+               <l>Thus while the windes doe tyranniſe the waves,</l>
+               <l>Great clapps of thunder break from thickned skie,</l>
+               <l>And ſhafts of lightning through the region flie,</l>
+               <l>And flie at randon, which more terrour breed:</l>
+               <l>They onely happy who were ſtrucken dead.</l>
+               <l>The wilde ſeas madded thus, in their affray,</l>
+               <l>Doe threaten with their daſh to put out day.</l>
+               <l>The rocks in ſight would faine have ſhrunck the head,</l>
+               <l>The hidden to be ſeene in vaine doe dread.</l>
+               <l>The battred ſhores had almoſt yeelded back,</l>
+               <l>The waves ſo litle of their wils did lack:</l>
+               <l>And but for bounds the worlds creatour fixt,</l>
+               <l>All th' elements had once again been mixt.</l>
+            </lg>
+            <lg>
+               <l>The Mariner, when firſt the ſtorm began,</l>
+               <l>By known ſignes taught to feare, looks pale and wan,</l>
+               <l>His ſailes takes in, and ſtoups unto that ill,</l>
+               <l>He cannot maſter, and with ſighes doth fill,</l>
+               <l>The deafe, and angry heavens, from whoſe offenſe,</l>
+               <l>The perſecution came, permitted thence.</l>
+               <l>For otherwiſe an hoſt of ſpirits want powr,</l>
+               <l>To ſtirre a breath, or ſtrain a ſlender ſhowr.</l>
+               <l>The ſprinkling of the breaking waves beget,</l>
+               <l>Somewhat like rain, and which as much doth wet.</l>
+               <l>Yet fell rain alſo in ſo vaſt a ſtore,</l>
+               <l>As had the windes ſlept, and the waves no more,</l>
+               <l>Been ſtirring then the windes, and force did uſe,</l>
+               <l>Which might, the ſhip it ſunck not, bulge, and bruiſe:</l>
+               <l>Like chorus between acts ſo came the rain,</l>
+               <l>Peal after peal, then tragick ſtorms again.</l>
+            </lg>
+            <lg>
+               <l>Away goes ſteerage, and the lead away,</l>
+               <l>All courſes fail, no road is near, nor bay.</l>
+               <l>Away the card, away the compaſſe goes:</l>
+               <l>In two and thirty points not one point ſhowes,</l>
+               <l>A line of ſafety, all the lines that were,</l>
+               <l>Did point to death, none other center there.</l>
+               <l>And if AMALFI had at that time found,</l>
+               <l>The loadſtones uſe, the needle turning round,</l>
+               <l>Vpon no corner could have faln ſo true,</l>
+               <l>As to direct from whence leſſe danger grew.</l>
+               <l>The ſtaff wherewith the height they wont to take,</l>
+               <l>Now when each ſea over the ſhip doth rake,</l>
+               <l>Surges whelm ſurges, billowes doe billowes ride,</l>
+               <l>(The ſea-race running counter to the tide)</l>
+               <l>Vnuſefull is, nor fit a ſtep to ſtay,</l>
+               <l>When rocking ſhips the reeling drunkards play,</l>
+               <l>And diſengorge the ſeas ſurcharging waſte,</l>
+               <l>At guſhing ſcuppet-holes, which ſeem to caſte.</l>
+               <l>The dancing beak-head now doth plunge, and dive,</l>
+               <l>Then up again before the winde doth drive,</l>
+               <l>And while upright it ſtands upon the ſlide,</l>
+               <l>The naked bottom may be halfway eyd.</l>
+               <l>No place for art is left, no place for might,</l>
+               <l>And every way beſt pleaſeth but the right.</l>
+               <l>For they the windes muſt follow not their will.</l>
+               <l>Obedience was their beſt, and that was ill.</l>
+               <l>To minde then firſt life paſt hath ſwift recourſe,</l>
+               <l>Then firſt the feare of death doth ſtir remorſe,</l>
+               <l>Awakens memory, repreſents things done:</l>
+               <l>And they who labourd riches to have wonne,</l>
+               <l>By deaths contempt, would all the world now give,</l>
+               <l>To be but ſafe on ſhore, and ſo to live.</l>
+               <l>Theſe were the ſports of that outragious fiend:</l>
+               <l>On whom a rabble of his likes attend,</l>
+               <l>Alike perdues, alike forlorn as he,</l>
+               <l>But leſſe in power, in malice, and degree.</l>
+               <l>Some ball up clouds to ramme into the winde,</l>
+               <l>Others new blaſts doe labour to unbinde,</l>
+               <l>And on their backs come feircely riding in,</l>
+               <l>Before the old ones to ſurceaſe begin,</l>
+               <l>And with their onſets violate the skie,</l>
+               <l>And betweene whiles doe whole broad-ſides let flie.</l>
+               <l>The Vultures, Harpyes, and all birds of praey,</l>
+               <l>Took ſanctuarie far upon ſhore away:</l>
+               <l>Their element is now no longer theirs.</l>
+               <l>Another ſhole of ouglier birds appeares,</l>
+               <l>Which viſiblie poſſeſſe the troubled clime,</l>
+               <l>Themſelves the ſoreſt tempeſts of the time.</l>
+            </lg>
+            <lg>
+               <l>He had a coat full threefold thicke of braſſe,</l>
+               <l>About his breſt, nor for his life did paſſe,</l>
+               <l>Who firſt did dare to truſt the ſea with ſhip,</l>
+               <l>And keels did teach' on billowes backe to skip,</l>
+               <l>Who firſt to weather did commit his weal;</l>
+               <l>Or had ſtrange cauſe from tyrants power to ſteal:</l>
+               <l>As had that man of CRETE, from whoſe arts fame,</l>
+               <l>Choice peices carry the DAEDALEAN name.</l>
+            </lg>
+            <lg>
+               <l>The ſhips ſides crack, the tackle teres like thred:</l>
+               <l>Some plie the pump; ſome cry we all are dead.</l>
+               <l>Here climbes a nimble boy unto the top,</l>
+               <l>When him now halfway, or not halfway up,</l>
+               <l>A guſt praevents, which ducks into the deep,</l>
+               <l>The ſhrowds themſelves, &amp; from the ropes doth ſweep</l>
+               <pb facs="tcp:183901:3"/>
+               <l>The ventrous climer, darting him as farre,</l>
+               <l>As globe of ſtone from inſtrument of warre.</l>
+               <l>There, to ſtand faſt the one the other bindes,</l>
+               <l>And both are blown of with the hoiſting windes:</l>
+               <l>Another on his hands and feete doth creep;</l>
+               <l>Him bounding haches bandie to the deep.</l>
+               <l>Some truſt unto the halliards, and their hold,</l>
+               <l>The cordage flies, they under ſeas are rolld.</l>
+               <l>The giddy ſhip the ſailers braines turnes round,</l>
+               <l>And ſtrains him ſo, though hard his browes be bound,</l>
+               <l>That, as from ſtricken flints, ſparkes ſeeme to flie,</l>
+               <l>Throughout his bones, and out at either eie.</l>
+               <l>If any one leſſe ſicklie were then ſo,</l>
+               <l>Of life leſſe weary he, the more his woe.</l>
+            </lg>
+            <lg>
+               <l>The Muſe while this ſhe ſings is giddie grown;</l>
+               <l>And the right reader ſcarcely keeps his own.</l>
+               <l>No marvaile then if their braines turned were,</l>
+               <l>Who of the ſtorm the ſtreſſe entire did beare.</l>
+            </lg>
+            <lg>
+               <l>The rudder torne away begins the wrack,</l>
+               <l>Though of the ſame the leſſer was the lack,</l>
+               <l>For that long ſince it ceaſt of uſe to bee,</l>
+               <l>And traiterous leaks drunk in the driving ſea.</l>
+               <l>No ſtanding on the decks, no ſtirring there;</l>
+               <l>Th' unbridled beaſt will now no maſter heare,</l>
+               <l>But flings the rider, off the ſailer ſhakes;</l>
+               <l>And each a grave-roome of his cabin makes.</l>
+               <l>The noiſe ſo hvge as ſhricks of men were drownd;</l>
+               <l>No anchorage but in vowes; nor in them found.</l>
+               <l>Not ſo much ſaile aloft left hanging there,</l>
+               <l>As would ſuffice to wipe away one teare.</l>
+               <l>The maſts cut down, the goods throwne over borde,</l>
+               <l>And laſt themſelves; all aid's in vaine implorde,</l>
+               <l>All hands in vain employd, the hull to ſave,</l>
+               <l>When gaping comes the fatall finall wave,</l>
+               <l>Cal'd <hi>Decumane,</hi> which into watrie woomb,</l>
+               <l>At one ſuck drawes down all, but gives no toomb;</l>
+               <l>For what one ſea devours another drives,</l>
+               <l>Rebelching it in mockage of their lives;</l>
+               <l>And as a load too heavie to digeſt,</l>
+               <l>Theſe ſurges play it over to the reſt,</l>
+               <l>And while one wreck another wreck doth hit,</l>
+               <l>What ſeas left whole is ſo in peices ſplit;</l>
+               <l>Or caſt on beds of ſand, or ragged rocks,</l>
+               <l>The carcaſſe-ſelfe diſſolving with the ſhocks.</l>
+            </lg>
+            <lg>
+               <l>The planks ſtart out, the ribbs in peices crack,</l>
+               <l>No timber is ſo ſtrong, but yeeldeth back,</l>
+               <l>And as the waves ruſh in, forth ſhoots the ware,</l>
+               <l>Such as remaind t'accompany diſpaire.</l>
+               <l>With them the deeps are ſpred, here barrels flote,</l>
+               <l>There packs not yet through-wet, and cheſts of note,</l>
+               <l>And men and boyes ride on them while they may,</l>
+               <l>Then ſhrick out laſt farewels and fall away:</l>
+               <l>The wine with brine doth mix; and mingled ſo,</l>
+               <l>The curled fome doth no pure whiteneſſe ſhow,</l>
+               <l>But dipt in claret die praetends to bluſh.</l>
+               <l>One ſwallowing ſurge the Merchants hop's doth cruſh,</l>
+               <l>The Factors, Sailers, Childrens, Wives, and Friends:</l>
+               <l>In wretched loſſe the whole adventure ends.</l>
+               <l>And though the Ocean opens to the sky,</l>
+               <l>Where none alive is neere to bid, or buy,</l>
+               <l>A world of ſcattred goods on billowes green,</l>
+               <l>As at a mart, yet they in vain are ſeene,</l>
+               <l>And what his mercy ſpares, or what the kinde,</l>
+               <l>Of that which cannot ſinck the ſhore doth finde,</l>
+               <l>The ſhore more cruell then the ſea devours;</l>
+               <l>For he who claimes the wreck cries, all is ours.</l>
+            </lg>
+            <lg>
+               <l>Nor with leſſe noiſe then as if from the ſide,</l>
+               <l>Of ſteple rocks a cliff ſhould chance to ſlide,</l>
+               <l>And drop into the under-beating ſeas,</l>
+               <l>To the great fright of the NEREIDES,</l>
+               <l>And other wanton nymphs who play by ſhore,</l>
+               <l>The ſunck ſhip fals, and beaten waters rore.</l>
+            </lg>
+            <lg>
+               <l>The ravenous fiſh, (thoſe wolves of NEPTVNES fie<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </l>
+               <l>A paſſage ſhort to quick and dead doe yeild,</l>
+               <l>Through greedy mawes; but corpſes thrown on ſhore<g ref="char:punc">▪</g>
+               </l>
+               <l>Finde buriall there, and people to deplore.</l>
+            </lg>
+            <lg>
+               <l>The cowerd under hatches feeles the fall,</l>
+               <l>Not daring ſight to uſe, nor ſpeech at all,</l>
+               <l>And ſtops his eares, juſt as his breath is ſtopt.</l>
+            </lg>
+            <lg>
+               <l>But the tall fellow never overtopt,</l>
+               <l>With baſeneſſe though with brine, in ſwimming ſinks,</l>
+               <l>And even in ſinking of ſurviving thinks,</l>
+               <l>Beſtrides ſome maſte, layes hold of yard, or planck,</l>
+               <l>And though among the loſt himſelfe he ranck,</l>
+               <l>Yet ſtrives with armes, and leggs to keepe aloft.</l>
+               <l>And boldneſſe ſo is bleſt, that not unoft,</l>
+               <l>God favours his eſcape, and lets him goe.</l>
+               <l>"The valiant man againſt deſpaire cries No.</l>
+               <l>"And though of all things elſe bereft, and left,</l>
+               <l>"Himſelfe he leaves not. God no greater gift<g ref="char:punc">▪</g>
+               </l>
+               <l>"Hath given unto man than ſuch a minde,</l>
+               <l>"Beneath the which are fortune, ſeas, and winde,</l>
+               <l>"Above it nothing elſe but God alone,</l>
+               <l>"And to him knit is alwayes ſo his owne.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <closer>Sit Trinitati ſempiterna gloria.</closer>
+            <pb facs="tcp:183901:4" rendition="simple:additions"/>
+            <pb facs="tcp:183901:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
